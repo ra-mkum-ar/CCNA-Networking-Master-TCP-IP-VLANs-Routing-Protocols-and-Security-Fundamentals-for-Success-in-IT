@@ -17,6 +17,10 @@ https://github.com/user-attachments/assets/e534f48b-e88b-49ff-9b6a-d3d2331db32f
 
 https://github.com/user-attachments/assets/79c76718-9712-4853-9bfe-97590c8888f7
 
+# CONFIGURING IPV4 ADDRESSES (LAB) AND VERIFYING IP PARAMETERS FOR CLIENT OS (LAB)
+
+
+
 
 
 
