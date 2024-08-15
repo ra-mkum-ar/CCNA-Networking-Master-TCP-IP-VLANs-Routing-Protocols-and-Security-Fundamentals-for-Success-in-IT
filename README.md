@@ -17,11 +17,9 @@ https://github.com/user-attachments/assets/e534f48b-e88b-49ff-9b6a-d3d2331db32f
 
 https://github.com/user-attachments/assets/2316db7b-f251-4606-a815-3f1132a201f7
 
-
-
 # CONFIGURING IPV4 ADDRESSES (LAB) AND VERIFYING IP PARAMETERS FOR CLIENT OS (LAB)
 
-https://github.com/user-attachments/assets/41fe7ee9-e2b4-427b-b76e-9e4d36b8121e
+https://github.com/user-attachments/assets/242a4efd-ec32-4b1e-8e07-e2039fa7af44
 
 # MAC LEARNING AND AGEING, MAC ADDRESS TABLE LAB
 
