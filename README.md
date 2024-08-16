@@ -42,6 +42,35 @@ https://github.com/user-attachments/assets/7a582a44-9947-47ba-971b-6c8cbe4d42aa
 # DHCP SNOOPING
 
 ![image](https://github.com/user-attachments/assets/90bf8e35-7560-4bbb-b709-d95ffc7e32d9)
+![image](https://github.com/user-attachments/assets/32479aab-929b-4523-892f-c9b493b235e2)
+
+# LAN ARCHITECTURES
+
+![image](https://github.com/user-attachments/assets/33d45032-3e09-4eaa-b7ae-77ec19ad2c72)
+
+# STP AND FHRP SYNCHRONIZATION
+
+![image](https://github.com/user-attachments/assets/43681f47-e7f2-4052-be17-fcd946a0ebbc)
+
+# WAN
+
+![image](https://github.com/user-attachments/assets/e7991c91-67a5-48a3-b7a8-33f239f44b89)
+![image](https://github.com/user-attachments/assets/25d4d4c0-0972-4b96-ac83-ec789b36ca96)
+
+# VIRTUALIZATION CONCEPT
+
+![image](https://github.com/user-attachments/assets/6b6dda79-3063-4283-9a35-2f6dc5d98380)
+
+# OSPF COMPONENETS
+
+![image](https://github.com/user-attachments/assets/a05d9782-22c5-4295-9e06-774f26909e5f)
+![image](https://github.com/user-attachments/assets/0d753d4f-08c6-4305-8af4-8e66fc0d1d00)
+
+
+
+
+
+
 
 
 
