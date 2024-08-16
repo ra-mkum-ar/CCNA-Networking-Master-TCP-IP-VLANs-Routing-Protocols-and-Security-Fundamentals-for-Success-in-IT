@@ -39,6 +39,11 @@ https://github.com/user-attachments/assets/91c0b584-bd7b-4185-a225-2c768e596a05
 
 https://github.com/user-attachments/assets/7a582a44-9947-47ba-971b-6c8cbe4d42aa
 
+# DHCP SNOOPING
+
+![image](https://github.com/user-attachments/assets/90bf8e35-7560-4bbb-b709-d95ffc7e32d9)
+
+
 
 
 
