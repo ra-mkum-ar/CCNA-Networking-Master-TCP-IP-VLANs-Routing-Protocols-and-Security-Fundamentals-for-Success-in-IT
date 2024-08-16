@@ -29,6 +29,12 @@ https://github.com/user-attachments/assets/97da5c92-6bc0-4801-a7ef-de661c3f8ff0
 
 https://github.com/user-attachments/assets/b7549e30-e990-45ac-8040-6fc951eb555e
 
+# ETHERCHANNEL LAB
+
+https://github.com/user-attachments/assets/91c0b584-bd7b-4185-a225-2c768e596a05
+
+
+
 
 
 
